@@ -1,4 +1,4 @@
-public class Datatype {
+public class _0821Datatype {
     public static void main(String[] args){
         // 정수
         int fifteen = 15;           // 10진수
