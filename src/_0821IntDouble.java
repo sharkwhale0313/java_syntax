@@ -1,4 +1,4 @@
-public class _0821DatatypeEx {
+public class _0821IntDouble {
     public static void main(String[] args){
         int mach;
         int distance;

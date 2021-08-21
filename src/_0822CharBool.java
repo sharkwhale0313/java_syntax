@@ -1,4 +1,4 @@
-public class _0822DatatypeEx2 {
+public class _0822CharBool {
     public static void main(String[] args){
         // character
         char c = 'A';
