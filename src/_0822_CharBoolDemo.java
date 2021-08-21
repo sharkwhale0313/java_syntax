@@ -1,4 +1,4 @@
-public class _0822CharBoolDemo {
+public class _0822_CharBoolDemo {
     public static void main(String[] args){
         // char
         char ga1 = '가';

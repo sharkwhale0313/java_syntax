@@ -1,4 +1,4 @@
-public class _0821IntDouble {
+public class _0821_IntDouble {
     public static void main(String[] args){
         int mach;
         int distance;

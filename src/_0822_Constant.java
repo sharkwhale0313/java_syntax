@@ -1,4 +1,4 @@
-public class _0822Constant {
+public class _0822_Constant {
     public static void main(String[] args){
         // 상수 : 프로그램 실행 중 변경할 수 없는 데이터
         // EX] pi = 3.141592 or mach = 3*10^8 m/s 등

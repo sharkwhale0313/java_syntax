@@ -1,4 +1,4 @@
-public class _0822CharBool {
+public class _0822_CharBool {
     public static void main(String[] args){
         // character
         char c = 'A';
