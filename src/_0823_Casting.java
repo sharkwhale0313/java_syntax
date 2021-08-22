@@ -15,7 +15,7 @@ public class _0823_Casting {
         d = 7 / (double)4;
         System.out.println(d);
 
-        // i = 7 / (double)4; // int type인 i 에 double을 대입할 수 없음
+        // i = 7 / (double)4; // int 타입인 i 에 double을 대입할 수 없음
 
         i = 300;
         if (i < Byte.MIN_VALUE || i > Byte.MAX_VALUE)
