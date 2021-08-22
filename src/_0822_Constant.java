@@ -3,7 +3,7 @@ public class _0822_Constant {
         // 상수 : 프로그램 실행 중 변경할 수 없는 데이터
         // EX] pi = 3.141592 or mach = 3*10^8 m/s 등
         // 상수 이름은 일반 변수와 구분하기 위해 모두 '대문자'로 표기
-        // key word는 'final'
+        // 키워드는 'final'
         final double PI = 3.14159;
 
         // 자동 타입 변환
