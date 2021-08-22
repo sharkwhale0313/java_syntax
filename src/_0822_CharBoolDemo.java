@@ -2,7 +2,7 @@ public class _0822_CharBoolDemo {
     public static void main(String[] args){
         // char
         char ga1 = '가';
-        char ga2 = '\uac00'; // 유니코드 가
+        char ga2 = '\uac00'; // 유니코드 '가'
 
         // bool
         boolean cham = true;
