@@ -1,3 +1,4 @@
+// 정적 변수의 초기화가 복잡할 때 정적 블록 사용
 public class _0920_StaticBlock {
     static int sumOneToTen;
 
